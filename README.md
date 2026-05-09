@@ -46,9 +46,8 @@ This project is an interactive Sales Performance Dashboard built using Power BI.
 ---
 
 ## Files Included
-- Sales Dashboard.pbix
-- PowerBI Project.xlsx
-- Dashboard_PBI.png
+- ![Dataset](Sales_Dashboard.pbix)
+![Excel Dataset](PowerBI_Project.xlsx)
 
 ---
 
